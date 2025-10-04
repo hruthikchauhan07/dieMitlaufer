@@ -5,4 +5,4 @@ def addSum(a,b):
 
 result = addSum(21,32)
 print(f"The answer is : {result}")
-print("nigge
+print("end proj")
